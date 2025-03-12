@@ -19,10 +19,9 @@ MedianFilter(inputArray input, OutputArray output, int windowSize);
 5. 정렬 된 밝기 중 가운데 값을 찾아서 결과 영상의 해당 픽셀에 대입
 ```
 
-## Results
+## Results(Before & After)
 
-### Original (Noisy)
-<img src="./assets/before.png" width="400">
-
-## Median Filtered
-<img src="./assets/after.png" width="400">
+<p align="center">
+  <img src="./assets/before.png"" width="300" style="display: inline-block;">
+  <img src="./assets/after.png" width="300" style="display: inline-block;">
+</p>
