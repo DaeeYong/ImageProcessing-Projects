@@ -14,7 +14,7 @@ image-processing/
 │   ├── median_filter.py
 │   ├── README.md
 │── noise-reduction/
-│   ├── noise_reduction.py
+│   ├── noise_reduction.pdf(report)
 │   ├── README.md
 │── boundary-filling/
 │   ├── boundary_filling.py
