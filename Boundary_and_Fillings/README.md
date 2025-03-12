@@ -8,4 +8,4 @@ morpological operation을 이용해서 boundary를 계산하고, region filling�
 4. region filling의 각 단게를 imshow를 통하여 보여줌.
 
 ## Demo
-![Demo](./assets/results.gif)
+<img src="./assets/results.gif" width="400"> 
