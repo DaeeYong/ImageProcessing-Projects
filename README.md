@@ -3,7 +3,7 @@
 This project focuses on fundamental image processing techniques including:
 - **Median Filtering**: Removes noise using a median filter.
 - **Noise Reduction** : Reduces image noise using various denoising techniques.
-- **Boundary & Filling**: Detects object boundaries and fills missing regions.
+- **Boundary & Filling**: Detects object boundaries and fills missing regions(morphological operation).
 
 Each technique is implemented as a separate module in this repository.
 
@@ -23,6 +23,6 @@ image-processing/
 
 | sub project | Description | Link |
 |----------|----------|----------|
-| Median Filtering | Data 2   | Data 3   |
-| Noise Reduction | Data 5   | Data 6   |
-| Boundary & Fillings | Data 5   | Data 6   |
+| Median Filtering | Removes noise using a median filter | [Link](https://github.com/DaeeYong/ImageProcessing-Projects/tree/main/Median_Filtering)  |
+| Noise Reduction | Reduces image noise using various denoising techniques |[Link](https://github.com/DaeeYong/ImageProcessing-Projects/tree/main/Noise_Reduction)|
+| Boundary & Fillings | Detects object boundaries and fills missing regions(morphological operation) | [Link](https://github.com/DaeeYong/ImageProcessing-Projects/tree/main/Boundary_and_Fillings)  |
