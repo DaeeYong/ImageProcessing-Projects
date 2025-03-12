@@ -22,7 +22,7 @@ MedianFilter(inputArray input, OutputArray output, int windowSize);
 ## Results
 
 ### Original (Noisy)
-![Original](./assets/before.png)
+<img src="./assets/before.png" width="400">
 
 ## Median Filtered
-![Filtered](./assets/after.png)
+<img src="./assets/after.png" width="400">
