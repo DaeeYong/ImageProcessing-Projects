@@ -3,7 +3,6 @@
 #include <opencv2/imgproc.hpp>
 
 #include<iostream>
-#include<Windows.h>
 
 using namespace cv;
 using namespace std;

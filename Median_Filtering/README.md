@@ -18,3 +18,11 @@ MedianFilter(inputArray input, OutputArray output, int windowSize);
 4. 범위 내의 픽셀들의 밝기 값들을 정렬
 5. 정렬 된 밝기 중 가운데 값을 찾아서 결과 영상의 해당 픽셀에 대입
 ```
+
+## Results
+
+### Original (Noisy)
+![Original](./assets/before.png)
+
+## Median Filtered
+![Filtered](./assets/after.png)
