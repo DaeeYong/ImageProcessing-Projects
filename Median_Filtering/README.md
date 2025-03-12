@@ -22,6 +22,6 @@ MedianFilter(inputArray input, OutputArray output, int windowSize);
 ## Results(Before & After)
 
 <p align="center">
-  <img src="./assets/before.png"" width="300" style="display: inline-block;">
-  <img src="./assets/after.png" width="300" style="display: inline-block;">
+  <img src="./assets/before.png"" width="450" style="display: inline-block;">
+  <img src="./assets/after.png" width="450" style="display: inline-block;">
 </p>
