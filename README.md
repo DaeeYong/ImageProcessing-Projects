@@ -8,7 +8,7 @@ This project focuses on fundamental image processing techniques including:
 Each technique is implemented as a separate module in this repository.
 
 ## 📂 Project Structure
-
+```
 image-processing/
 │── median-filtering/
 │   ├── median_filter.py
@@ -19,6 +19,7 @@ image-processing/
 │── boundary-filling/
 │   ├── boundary_filling.py
 │   ├── README.md
+```
 
 | sub project | Description | Link |
 |----------|----------|----------|
